@@ -1,7 +1,10 @@
 # Nonstop Defense
 
+Permainan bertipe Tower Defense dimana kita sebagai player diharuskan menjaga rumah kesayangan kita dari serangan para cacing besar Alaska yang tidak diketahui jumlah dan kekuatannya. 
 
-Permainan bertipe Tower Defense dimana kita sebagai player diharuskan menjaga rumah kesayangan kita dari serangan para cacing besar Alaska yang tidak diketahui jumlah dan kekuatannya. Untuk bisa melawan mereka, kita harus membuat benteng pertahanan yang terdiri dari berbagai jenis Turret yang memiliki kelebihannya masing-masing. Kita akan kehilangan rumah kesayangan kita apabila 20 cacing besar Alaska memasuki dan mengacak-acak rumah kita. 
+Untuk bisa melawan mereka, kita harus membuat benteng pertahanan yang terdiri dari berbagai jenis Turret yang memiliki kelebihannya masing-masing. 
+
+Kita akan kehilangan rumah kesayangan kita apabila 20 cacing besar Alaska memasuki dan mengacak-acak rumah kita. 
 
 ### Development Team
 <table>
@@ -48,29 +51,30 @@ Permainan bertipe Tower Defense dimana kita sebagai player diharuskan menjaga ru
 
 ### Gameplay
 
-Game ini adalah game third person perspective, control dasarnya adalah :
+Untuk bisa memainkan game Nonstop Defense ini, kita hanya perlu membeli jenis Turret yang kita inginkan disesuaikan dengan jumlah Money yang kita miliki saat itu dengan men-klik left-click mouse button dan meletakkannya di Terrain yang sudah disediakan di Map.
 
-| Tombol Keyboard | Fungsi |
+
+
+| Tombol | Fungsi |
 | ----- | ----- |
-| W | Jalan Maju |
-| A | Jalan Ke kiri |
-| S | Jalan Mundur |
-| D | Jalan Ke kanan |
+| Left-click Mouse Button | Membeli Turret, Meletakkan Turret |
+| Esc | Pause Game |
 
 ### Screenshot 
 
 Main Menu:
-![Main Menu](SS-Menu.jpg)
+![Main Menu](Screenshot - Main Menu.png)
+
+Options Menu:
+![Options Menu](Screenshot - Option Menu.png)
 
 Gameplay:
-![Gameplay](SS-Gameplay1.jpg)
-![Gameplay](SS-Gameplay2.jpg)
+![Gameplay](Screenshot - Gameplay.png)
+
+Game Pause:
+![Game Pause](Screenshot - Game Pause.png)
 
 Game Over:
-![Game Over](SS-Lose.jpg)
-
-Win:
-![Win](SS-Win.jpg)
+![Game Over](Screenshot - Game Over.png)
 
 ### Video Gameplay 
-[Klik di sini](WolfVideoDemo.mp4)
