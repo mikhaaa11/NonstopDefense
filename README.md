@@ -51,7 +51,7 @@ Kita akan kehilangan rumah kesayangan kita apabila 20 cacing besar Alaska memasu
 
 ### Gameplay
 
-Untuk bisa memainkan game Nonstop Defense ini, kita hanya perlu membeli jenis Turret yang kita inginkan disesuaikan dengan jumlah Money yang kita miliki saat itu dengan men-klik left-click mouse button dan meletakkannya di Terrain yang sudah disediakan di Map.
+Kita hanya perlu membeli jenis Turret yang kita inginkan disesuaikan dengan jumlah Money yang kita miliki saat itu dengan men-klik left-click mouse button dan meletakkannya di Terrain yang sudah disediakan di Map.
 
 
 
