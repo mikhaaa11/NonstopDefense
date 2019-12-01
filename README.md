@@ -12,11 +12,17 @@ Kita akan kehilangan rumah kesayangan kita apabila 20 cacing besar Alaska memasu
     Nama
   </th>
   <th>
+    NIM
+  </th>
+  <th>
     Peran
   </th>
   <tr>
     <td>
       Mickael
+    </td>
+    <td>
+      G64170039
     </td>
     <td>
       Project Manager, Game Programmer, Game Designer
@@ -27,12 +33,18 @@ Kita akan kehilangan rumah kesayangan kita apabila 20 cacing besar Alaska memasu
       Muhammad Fauzan Azhim
     </td>
     <td>
+      G64170009
+    </td>
+    <td>
       Game Designer, Game Artist
     </td>
   </tr>
   <tr>
     <td>
       Mursyid Alhadi
+    </td>
+    <td>
+      G64170042
     </td>
     <td>
       Game Artist
