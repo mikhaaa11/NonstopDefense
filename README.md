@@ -66,15 +66,15 @@ Main Menu:
 ![Main Menu](Screenshot-MainMenu.png)
 
 Options Menu:
-![Options Menu](Screenshot-Option Menu.png)
+![Options Menu](Screenshot-OptionMenu.png)
 
 Gameplay:
 ![Gameplay](Screenshot-Gameplay.png)
 
 Game Pause:
-![Game Pause](Screenshot-Game Pause.png)
+![Game Pause](Screenshot-GamePause.png)
 
 Game Over:
-![Game Over](Screenshot-Game Over.png)
+![Game Over](Screenshot-GameOver.png)
 
 ### Video Gameplay 
