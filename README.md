@@ -63,18 +63,18 @@ Untuk bisa memainkan game Nonstop Defense ini, kita hanya perlu membeli jenis Tu
 ### Screenshot 
 
 Main Menu:
-![Main Menu](Screenshot - Main Menu.png)
+![Main Menu](Screenshot-MainMenu.png)
 
 Options Menu:
-![Options Menu](Screenshot - Option Menu.png)
+![Options Menu](Screenshot-Option Menu.png)
 
 Gameplay:
-![Gameplay](Screenshot - Gameplay.png)
+![Gameplay](Screenshot-Gameplay.png)
 
 Game Pause:
-![Game Pause](Screenshot - Game Pause.png)
+![Game Pause](Screenshot-Game Pause.png)
 
 Game Over:
-![Game Over](Screenshot - Game Over.png)
+![Game Over](Screenshot-Game Over.png)
 
 ### Video Gameplay 
