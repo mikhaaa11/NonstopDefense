@@ -75,7 +75,7 @@ Kita hanya perlu membeli jenis Turret yang kita inginkan disesuaikan dengan juml
 
 | Tombol | Fungsi |
 | ----- | ----- |
-| Left-click Mouse Button | Membeli Turret, Meletakkan Turret |
+| Left-Click Mouse Button | Membeli Turret, Meletakkan Turret |
 | Esc | Pause Game |
 
 ### Screenshot 
