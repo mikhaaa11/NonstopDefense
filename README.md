@@ -10,7 +10,7 @@ Permainan bertipe Tower Defense dimana kita sebagai player diharuskan menjaga ru
 
 Untuk bisa melawan mereka, kita harus membuat benteng pertahanan yang terdiri dari berbagai jenis Turret yang memiliki kelebihannya masing-masing. 
 
-Kita akan kehilangan rumah orang kesayangan kita apabila 20 cacing besar Alaska memasuki dan mengacak-acak rumah kita. 
+Kita akan kehilangan rumah orang kesayangan kita apabila 20 cacing besar Alaska memasuki dan mengacak-acak rumah orang kesayangan kita. 
 
 ### Development Team
 <table>
