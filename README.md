@@ -2,15 +2,15 @@
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/mikhaaa11/NonstopDefense/blob/master/Nonstop%20Defense%20Project/Assets/Images/Ahn%20Yujin.jpg" alt="Nonstop Defense" width=80 height=80>
+    <img src="https://github.com/mikhaaa11/NonstopDefense/blob/master/Nonstop%20Defense%20Project/Assets/Images/Ahn%20Yujin.jpg" alt="Nonstop Defense" width=100 height=100>
   </a>
 </p>
 
-Permainan bertipe Tower Defense dimana kita sebagai player diharuskan menjaga rumah kesayangan kita dari serangan para cacing besar Alaska yang tidak diketahui jumlah dan kekuatannya. 
+Permainan bertipe Tower Defense dimana kita sebagai player diharuskan menjaga rumah orang kesayangan kita dari serangan para cacing besar Alaska yang tidak diketahui jumlah dan kekuatannya. 
 
 Untuk bisa melawan mereka, kita harus membuat benteng pertahanan yang terdiri dari berbagai jenis Turret yang memiliki kelebihannya masing-masing. 
 
-Kita akan kehilangan rumah kesayangan kita apabila 20 cacing besar Alaska memasuki dan mengacak-acak rumah kita. 
+Kita akan kehilangan rumah orang kesayangan kita apabila 20 cacing besar Alaska memasuki dan mengacak-acak rumah kita. 
 
 ### Development Team
 <table>
