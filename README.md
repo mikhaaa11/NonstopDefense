@@ -96,4 +96,4 @@ Game Over:
 ![Game Over](Screenshot-GameOver.jpg)
 
 ### Gameplay Video
-[Nonstop Defense Gameplay Video](https://youtu.be/FqCfjpJ_ux0)
+[Nonstop Defense Gameplay Video](https://youtu.be/FqCfjpJ_ux0){:target="_blank" rel="noopener"}
