@@ -95,4 +95,5 @@ Game Pause:
 Game Over:
 ![Game Over](Screenshot-GameOver.jpg)
 
-### Video Gameplay 
+### Gameplay Video
+[Nonstop Defense Gameplay Video](https://youtu.be/FqCfjpJ_ux0)
